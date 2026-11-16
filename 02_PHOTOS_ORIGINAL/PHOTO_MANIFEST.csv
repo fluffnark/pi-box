@@ -1,0 +1,11 @@
+photo_file,original_container_filename,observation
+01_eink_FPC_tail_closeup.jpg,image-1794793958428.jpg,Bare ePaper built-in FPC tail in closeup; visible printing FPC-C001 / 210830 / HB; contact-side orientation to be rechecked.
+02_white_AB_cable_closeup.jpg,image-1794793973176.jpg,"White 24-pin flexible ribbon with blue stiffener, marked AWM 20624 80C 60V VW-1; this is an A-B type cable from the existing purchase history, not verified for #4524."
+03_eink_screen_and_supplies.jpg,image-1794794956939.jpg,Working display with clock/alarm interface alongside packaged supplies.
+04_open_case_electronics.jpg,image-1794794961375.jpg,"Open Apache 1800 shows Pi single-board computer, small attached board, wiring and foam-lid; exact attachment locations not fully known."
+05_closed_case_1800.jpg,image-1794794966477.jpg,"Exterior Apache 1800 lid/case from above, visible ribs and latches."
+06_rotary_and_button_over_pi.jpg,image-1794794999718.jpg,Two loose front-panel input controls held by hand above Raspberry Pi; installation status unknown.
+07_shop_metal_fastener_assortments.jpg,image-1794795079346.jpg,Storehouse nut/bolt and wingnut assortment boxes; not preferred for delicate glass display.
+08_M25_nylon_fastener_kit.jpg,image-1794795084490.jpg,Adafruit black nylon M2.5 screw kit labeled on clear organizer.
+09_measurement_screen_on_case_lid.jpg,22554.jpg,"Overhead view of working screen resting on the lid with tape measure, ribbon at bottom-center; scale helps assess lid fit."
+10_FPC_tail_over_case_lower_edge.jpg,22555.jpg,Close view of bare panel ribbon hanging past the case rim near hinge/latch region. Do not route through closure gasket.

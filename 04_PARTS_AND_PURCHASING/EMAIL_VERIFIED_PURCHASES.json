@@ -1,0 +1,302 @@
+[
+  {
+    "purchase_date_local": "2026-11-15",
+    "vendor": "Adafruit",
+    "product_id": "4524",
+    "product": "24-pin 0.5mm FFC / FPC Extender",
+    "quantity": 1,
+    "line_total_usd": "0.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/4524"
+  },
+  {
+    "purchase_date_local": "2026-11-15",
+    "vendor": "Adafruit",
+    "product_id": "4230",
+    "product": "24-pin eInk / ePaper Extension Cable 0.5mm Pitch - 25cm Long",
+    "quantity": 1,
+    "line_total_usd": "1.50",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/4230"
+  },
+  {
+    "purchase_date_local": "2026-11-15",
+    "vendor": "Adafruit",
+    "product_id": "5019",
+    "product": "Thick Double-Sided Rectangle Foam Tape - 2 pieces (3/4\" x 1.5\" x 0.063\")",
+    "quantity": 1,
+    "line_total_usd": "0.75",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/5019"
+  },
+  {
+    "purchase_date_local": "2026-01-17",
+    "vendor": "Adafruit",
+    "product_id": "2223",
+    "product": "GPIO Stacking Header for Pi A+/B+/Pi 2/Pi 3 (Extralong 2x20 Pins)",
+    "quantity": 1,
+    "line_total_usd": "2.50",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/2223"
+  },
+  {
+    "purchase_date_local": "2026-01-17",
+    "vendor": "Adafruit",
+    "product_id": "1979",
+    "product": "Stacking Header for Pi A+/B+/Pi 2/Pi 3 2x20 Extra Tall Header",
+    "quantity": 1,
+    "line_total_usd": "2.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/1979"
+  },
+  {
+    "purchase_date_local": "2026-01-17",
+    "vendor": "Adafruit",
+    "product_id": "6418",
+    "product": "Adafruit E-Ink Bonnet for Raspberry Pi - 24-pin E-Paper Displays",
+    "quantity": 1,
+    "line_total_usd": "14.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6418"
+  },
+  {
+    "purchase_date_local": "2026-01-09",
+    "vendor": "Adafruit",
+    "product_id": "3367",
+    "product": "Mini USB Microphone",
+    "quantity": 1,
+    "line_total_usd": "5.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/3367"
+  },
+  {
+    "purchase_date_local": "2026-01-09",
+    "vendor": "Adafruit",
+    "product_id": "974",
+    "product": "Flexible USB Swivel Adapter",
+    "quantity": 1,
+    "line_total_usd": "3.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/974"
+  },
+  {
+    "purchase_date_local": "2026-01-09",
+    "vendor": "Adafruit",
+    "product_id": "4282",
+    "product": "Adafruit PiRTC Precise DS3231 Real Time Clock for Raspberry Pi",
+    "quantity": 1,
+    "line_total_usd": "14.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/4282"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "6396",
+    "product": "7.5\" 800x480 Monochrome eInk / ePaper Bare Display (UC8179 Chipset)",
+    "quantity": 1,
+    "line_total_usd": "59.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6396"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "5527",
+    "product": "Anodized Aluminum Machined Knob Black 20mm Diameter",
+    "quantity": 1,
+    "line_total_usd": "2.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/5527"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "377",
+    "product": "Rotary Encoder + Extras",
+    "quantity": 1,
+    "line_total_usd": "4.50",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/377"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "3055",
+    "product": "Raspberry Pi 3 Model B ARMv8 with 1G RAM",
+    "quantity": 1,
+    "line_total_usd": "35.00",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/3055"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "4224",
+    "product": "Adafruit eInk Breakout Friend with 32KB SRAM",
+    "quantity": 1,
+    "line_total_usd": "8.50",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/4224"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "6385",
+    "product": "24pin 0.5mm pitch FPC Flex AB (D) type Cable 100mm long",
+    "quantity": 1,
+    "line_total_usd": "0.60",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6385"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "6384",
+    "product": "24pin 0.5mm pitch FPC Flex AB (D) type Cable 50mm long",
+    "quantity": 1,
+    "line_total_usd": "0.50",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6384"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "6386",
+    "product": "24pin 0.5mm pitch FPC Flex AB (D) type Cable 250mm long",
+    "quantity": 1,
+    "line_total_usd": "0.75",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6386"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "64",
+    "product": "Half Sized Premium Breadboard 400 Tie Points",
+    "quantity": 1,
+    "line_total_usd": "4.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/64"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "153",
+    "product": "Breadboarding wire bundle",
+    "quantity": 1,
+    "line_total_usd": "4.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/153"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "3299",
+    "product": "Black Nylon Machine Screw and Standoff Set – M2.5 Thread",
+    "quantity": 1,
+    "line_total_usd": "16.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/3299"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "6010",
+    "product": "Official Raspberry Pi A2Class microSD Card 32GB Blank",
+    "quantity": 2,
+    "line_total_usd": "27.38",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/6010"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "1475",
+    "product": "USB Audio Adapter Works with Raspberry Pi",
+    "quantity": 1,
+    "line_total_usd": "4.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/1475"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "1363",
+    "product": "USB Powered Speakers",
+    "quantity": 1,
+    "line_total_usd": "9.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/1363"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "1951",
+    "product": "Premium Female/Female Jumper Wires 20 x 3\" (75mm)",
+    "quantity": 1,
+    "line_total_usd": "1.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/1951"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "558",
+    "product": "Rugged Metal Pushbutton with White LED Ring (16mm White Momentary)",
+    "quantity": 1,
+    "line_total_usd": "4.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/558"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "434",
+    "product": "Large Modular Snap Box SMD component storage (Orange)",
+    "quantity": 2,
+    "line_total_usd": "3.90",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/434"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "433",
+    "product": "Medium Modular Snap Boxes SMD component storage 2 pack (Pink)",
+    "quantity": 2,
+    "line_total_usd": "5.90",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/433"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "432",
+    "product": "Small Modular Snap Boxes SMD component storage 3 pack (Green)",
+    "quantity": 1,
+    "line_total_usd": "2.95",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/432"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "5302",
+    "product": "Adafruit KB2040 RP2040 Kee Boar Driver",
+    "quantity": 1,
+    "line_total_usd": "0.00",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/5302"
+  },
+  {
+    "purchase_date_local": "2026-01-08",
+    "vendor": "Adafruit",
+    "product_id": "5719",
+    "product": "PCB Coaster with Gold Adafruit Logo",
+    "quantity": 1,
+    "line_total_usd": "0.00",
+    "status": "PURCHASE CONFIRMED; delivery/current possession not verified",
+    "source_url": "https://www.adafruit.com/product/5719"
+  }
+]

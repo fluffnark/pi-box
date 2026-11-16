@@ -1,0 +1,22 @@
+name,adafruit_product_id,quantity_in_order,historical_line_total_usd,evidence_and_notes
+7.5in 800x480 monochrome UC8179 bare eInk display,6396,1,59.95,Seen physically in photos; working
+Anodized aluminum black 20mm knob,5527,1,2.95,Purchased; presence not independently verified
+Rotary encoder + extras,377,1,4.5,One encoder/control seen in photos; exact component identification unverified
+Raspberry Pi 3 Model B,3055,1,35.0,Pi-like board seen physically; original order Pi 3 Model B
+Adafruit eInk Breakout Friend with 32KB SRAM,4224,1,8.5,"Purchased; appears as small companion board, exact position to verify"
+24-pin 0.5mm A-B (D type) FPC cable 100mm,6385,1,0.6,"Purchased, NOT approved substitute for Type A #4230 with extender #4524"
+24-pin 0.5mm A-B (D type) FPC cable 50mm,6384,1,0.5,"Purchased, NOT approved substitute for Type A #4230 with extender #4524"
+24-pin 0.5mm A-B (D type) FPC cable 250mm,6386,1,0.75,"Purchased, NOT approved substitute for Type A #4230 with extender #4524"
+Half sized 400 point breadboard,64,1,4.95,Purchased; no verification currently installed
+Breadboarding wire bundle,153,1,4.95,Purchased; assorted wires seen in case
+Black nylon M2.5 screw and standoff set,3299,1,16.95,Physically shown in box; already owned
+"Official Raspberry Pi A2-Class microSD card, blank 32GB",6010,2,27.38,Email line total for two; installed card not identified
+USB audio adapter for Raspberry Pi,1475,1,4.95,Purchased; not verified installed
+USB powered speakers,1363,1,9.95,Purchased; not verified installed
+Premium F/F jumper wire pack 20 x 3in,1951,1,1.95,Purchased
+Rugged metal pushbutton 16mm with white LED ring,558,1,4.95,Button held in case photo; likely this item
+Large modular orange snap storage box,434,2,3.9,Email line total for two
+Medium modular pink 2-pack snap storage box,433,2,5.9,Email line total for two
+Small modular green 3-pack storage box,432,1,2.95,Purchased
+Adafruit KB2040 RP2040 Kee Boar Driver,5302,1,0.0,Promotional free line item; not relevant to display mount
+PCB coaster with Adafruit gold logo,5719,1,0.0,Promotional free line item; not relevant to display mount

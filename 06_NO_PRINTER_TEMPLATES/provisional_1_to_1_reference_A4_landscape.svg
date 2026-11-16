@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210">
+<rect width="297" height="210" fill="white"/>
+<text x="12" y="13" font-family="Arial" font-size="6" font-weight="bold">PROVISIONAL 1:1 PANEL / HISTORICAL ENVELOPE</text>
+<text x="12" y="20" font-family="Arial" font-size="3.4">Print at actual size / 100%. Compare against physical parts. NOT a drilling, cover-cut, or mount template.</text>
+<!-- old frame and panel are centered on (148.5,102) -->
+<rect x="54" y="41.25" width="189" height="121.5" rx="6" fill="none" stroke="#14527f" stroke-width="0.6" stroke-dasharray="3 2"/>
+<rect x="63.4" y="46.4" width="170.2" height="111.2" rx="0.7" fill="none" stroke="#aa3636" stroke-width="0.6"/>
+<rect x="66.9" y="53.14" width="163.2" height="97.72" fill="none" stroke="#39854b" stroke-width="0.4" stroke-dasharray="2 1"/>
+<rect x="139" y="153.25" width="19" height="9.5" fill="none" stroke="#d18a14" stroke-width="0.7"/>
+<text x="56" y="37" font-family="Arial" font-size="3.8" fill="#14527f">Historic V2 printed frame envelope: 189 x 121.5mm (reference only)</text>
+<text x="65" y="52" font-family="Arial" font-size="3.5" fill="#aa3636">Nominal glass: 170.2 x 111.2mm (unverified)</text>
+<text x="69" y="146" font-family="Arial" font-size="3.3" fill="#39854b">Viewing area: 163.2 x 97.72mm</text>
+<text x="162" y="158" font-family="Arial" font-size="3.3" fill="#d18a14">FPC at bottom center</text>
+<line x1="148.5" y1="163" x2="148.5" y2="183" stroke="#d18a14" stroke-width="0.5" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#d18a14"/></marker></defs>
+<line x1="20" y1="188" x2="70" y2="188" stroke="black" stroke-width="0.7"/><line x1="20" y1="185" x2="20" y2="191" stroke="black" stroke-width="0.5"/><line x1="70" y1="185" x2="70" y2="191" stroke="black" stroke-width="0.5"/>
+<text x="28" y="196" font-family="Arial" font-size="4">50mm print verification scale</text>
+<text x="153" y="198" font-family="Arial" font-size="3.5">New no-printer cover and tape land still need design.</text>
+</svg>

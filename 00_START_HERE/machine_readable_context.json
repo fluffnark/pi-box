@@ -1,0 +1,129 @@
+{
+  "schema": "soma_eink_apache1800_handoff.v1",
+  "compiled_utc_date": "2026-11-15",
+  "user_priority": "External lid-mounted bare ePaper, NO 3D PRINTER; tape/adhesive or purchased/cut protector, low cost, safe FPC feedthrough",
+  "hardware": {
+    "case": "Harbor Freight Apache 1800, SKU 64550; polypropylene + rubber seals; factory IP65 before modification",
+    "display": "Adafruit 6396, 7.5in 800x480 monochrome UC8179, 24-pin FPC; user has and working",
+    "controller": "Adafruit 4224 eInk Breakout Friend 32KB SRAM, purchased",
+    "computer": "Raspberry Pi 3 Model B, purchased and photographed",
+    "inputs": "20mm knob, rotary encoder, 16mm white LED ring metal pushbutton",
+    "fasteners": "M2.5 black nylon set, Storehouse nut/bolt and wingnut assortments",
+    "existing_cables": "Adafruit #6384 50mm #6385 100mm #6386 250mm, A-B/D type"
+  },
+  "design_history": {
+    "v1": "190x132mm nominal 3d printed tray/bezel; superseded",
+    "v2": "189x121.5mm nominal printed tray/bezel, bottom center FPC relief 19 x 9.5mm; superseded",
+    "latest": "No printer: adhesive/direct-lid with window and safe protected pass-through, needs redesign"
+  },
+  "nominal_unverified_dimensions_mm": {
+    "panel_glass": [
+      170.2,
+      111.2
+    ],
+    "v2_printed_frame": [
+      189,
+      121.5
+    ],
+    "v2_window_legacy": [
+      174,
+      105,
+      1.5
+    ],
+    "v2_hole_centers": [
+      178,
+      100
+    ]
+  },
+  "sourced_dimensions_mm": {
+    "display_active_area": [
+      163.2,
+      97.72
+    ],
+    "case_exterior_approx": [
+      234.95,
+      190.5,
+      111.125
+    ]
+  },
+  "to_buy": [
+    {
+      "name": "3M VHB LSE-110WF PP compatible tape",
+      "price_usd": null
+    },
+    {
+      "name": "clear polycarbonate cover",
+      "price_usd": null
+    },
+    {
+      "name": "spacers/gasket",
+      "price_usd": null
+    }
+  ],
+  "open_problems": [
+    "underside lid not photographed/measured",
+    "flat tape land and ribs unknown",
+    "FPC feedthrough and seal unspecified",
+    "physical glass and FPC routing clearances unmeasured",
+    "shock/thermal load and adhesive retention unverified",
+    "electrical pin mapping and cable orientation need continuity check"
+  ],
+  "photos": [
+    {
+      "file": "01_eink_FPC_tail_closeup.jpg",
+      "description": "Bare ePaper built-in FPC tail in closeup; visible printing FPC-C001 / 210830 / HB; contact-side orientation to be rechecked."
+    },
+    {
+      "file": "02_white_AB_cable_closeup.jpg",
+      "description": "White 24-pin flexible ribbon with blue stiffener, marked AWM 20624 80C 60V VW-1; this is an A-B type cable from the existing purchase history, not verified for #4524."
+    },
+    {
+      "file": "03_eink_screen_and_supplies.jpg",
+      "description": "Working display with clock/alarm interface alongside packaged supplies."
+    },
+    {
+      "file": "04_open_case_electronics.jpg",
+      "description": "Open Apache 1800 shows Pi single-board computer, small attached board, wiring and foam-lid; exact attachment locations not fully known."
+    },
+    {
+      "file": "05_closed_case_1800.jpg",
+      "description": "Exterior Apache 1800 lid/case from above, visible ribs and latches."
+    },
+    {
+      "file": "06_rotary_and_button_over_pi.jpg",
+      "description": "Two loose front-panel input controls held by hand above Raspberry Pi; installation status unknown."
+    },
+    {
+      "file": "07_shop_metal_fastener_assortments.jpg",
+      "description": "Storehouse nut/bolt and wingnut assortment boxes; not preferred for delicate glass display."
+    },
+    {
+      "file": "08_M25_nylon_fastener_kit.jpg",
+      "description": "Adafruit black nylon M2.5 screw kit labeled on clear organizer."
+    },
+    {
+      "file": "09_measurement_screen_on_case_lid.jpg",
+      "description": "Overhead view of working screen resting on the lid with tape measure, ribbon at bottom-center; scale helps assess lid fit."
+    },
+    {
+      "file": "10_FPC_tail_over_case_lower_edge.jpg",
+      "description": "Close view of bare panel ribbon hanging past the case rim near hinge/latch region. Do not route through closure gasket."
+    }
+  ],
+  "privacy": "Source order details are sanitized to exclude address, phone, email account, payment method; no credentials or connected-account access included.",
+  "purchase_update_2026_11_15": {
+    "purchased_not_delivery_verified": [
+      "4524",
+      "4230",
+      "5019",
+      "6418",
+      "2223",
+      "1979",
+      "4282",
+      "3367",
+      "974"
+    ],
+    "controller_installed": "Unknown: #6418 and #4224 both purchased",
+    "inventory": "04_PARTS_AND_PURCHASING/EMAIL_VERIFIED_PURCHASES.csv"
+  }
+}
