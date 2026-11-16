@@ -18,3 +18,7 @@ Open this repository folder as the working directory for a SOMA agent. Choose **
 Imported all 42 files from the complete handoff ZIP downloaded Nov 15, 2026. The unchanged ZIP is retained in `archives/`; extracted working documents include the subsequent purchase corrections. Original purchase-email content, contact details and payment information are excluded.
 
 ZIP SHA-256: `651766cbfc30f13caf81b96fff9c1a053d2413c2cd33334bc18520acbed98c98`
+
+## Packaged model
+
+`pi-box.soma` is a portable snapshot of the initialized project for SOMA's **Open model** picker. The editable source of truth is this repository's `model.py`, `.soma/project.json`, and handoff files. Opening the package creates a separate SOMA working copy; its edits do not automatically update this checkout. To work directly in Git, use SOMA's **Open folder** action on this repository. Refresh the package when sharing a newer model; exclude the package itself and `.git/` when packaging.
