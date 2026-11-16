@@ -1,0 +1,10 @@
+{
+  "id": "16d877cc-51f3-4964-af19-994a81c385aa",
+  "name": "Pi Box \u2014 provisional display reference",
+  "api_version": 1,
+  "app_version": "0.11.0",
+  "entry": "model.py",
+  "main_output": "output/model.step",
+  "created": "2026-11-16T02:51:15.344189+00:00",
+  "requirements": ".soma/requirements.txt"
+}

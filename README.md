@@ -11,7 +11,7 @@ Mechanical mounting project for an externally mounted Adafruit #6396 display on 
 3. Review [requirements](01_REQUIREMENTS/DESIGN_REQUIREMENTS_AND_UNCERTAINTIES.md), original photos, and [current parts list](04_PARTS_AND_PURCHASING/ACTIONABLE_BOM_NO_PRINTER.csv).
 4. Review [email-verified purchases](04_PARTS_AND_PURCHASING/EMAIL_VERIFIED_PURCHASES.csv): the extender and extension cable were purchased Nov 15, 2026; the Bonnet and headers were also purchased earlier. Confirm the installed controller before layout work.
 
-Open this repository folder as the working directory for a SOMA agent. There is no native SOMA/CadQuery model yet; existing CAD is historical OpenSCAD/STL.
+Open this repository folder as the working directory for a SOMA agent. Choose **Open folder** in SOMA and select this repository. `model.py` and `.soma/project.json` initialize a native project with a provisional reference display envelope only. See `NOTES.md` for dimension assumptions. Existing OpenSCAD/STL remains historical.
 
 ## Provenance
 
